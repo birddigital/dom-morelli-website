@@ -62,7 +62,7 @@ const Shows: React.FC = () => {
               Live at NYC
             </p>
             <p className="mb-10 leading-6 text-gray-500 line-clamp-2">
-              Experience an electrifying performance at NYC's most iconic
+              Experience an electrifying performance at NYC&apos;s most iconic
               venue...
             </p>
             <Link
@@ -92,7 +92,7 @@ const Shows: React.FC = () => {
               Live at Miami
             </p>
             <p className="mb-10 leading-6 text-gray-500 line-clamp-2">
-              Dance the night away at Miami's biggest electronic music
+              Dance the night away at Miami&apos;s biggest electronic music
               festival...
             </p>
             <Link
